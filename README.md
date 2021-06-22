@@ -8,7 +8,7 @@
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://kaggle.com/sarabhian"target="_blank">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a></br>
 <br>
 I am Abhijeet Deshmukh, Undergraduate at <strong>College of Engineering Pune </strong> pursuing Major in <strong>Instrumentation and Control and Engineering (ICE) </strong> (batch 2019-23) <br/>
