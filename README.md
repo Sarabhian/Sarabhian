@@ -13,7 +13,7 @@
 <br>
 I am Abhijeet Deshmukh, Undergraduate at <strong>College of Engineering Pune </strong> pursuing Major in <strong>Instrumentation and Control and Engineering (ICE) </strong> (batch 2019-23) <br/>
 I work with <strong>MATLAB</strong> and <strong>python</strong> for most of my works, <strong>c++</strong> for <strong>club projects </strong> and  related stuffs.
-I Like  <strong>Deep learning , NLP , Data analysis </strong> and <strong>Digital electronics </strong> ... looking scattered interest isn't it ?👀 . <br/>
+I Like  <strong>Deep learning , NLP , Data analysis </strong> and <strong>Digital electronics </strong> .. . <br/>
 currently I am into  deep learning  and working  with Pytorch  <br/>
 I am looking for collaborations and Hands on projects  in Machine Learning and AI<br/>
 <strong>Ping me for projects, let's explore and build crazy stuff 👊</strong>
