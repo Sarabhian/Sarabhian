@@ -12,15 +12,24 @@
 </a></br>
 <br>
 I am Abhijeet Deshmukh, Undergraduate student at <strong>College of Engineering Pune </strong> pursuing Major in <strong>Instrumentation and Control and Engineering (ICE) </strong> (batch 2019-23) <br/>
-I work with <strong>MATLAB , R </strong> and <strong>python </strong> for most of my AI releted projects,and using <strong>C ,C++ ,embedded C </strong> for <strong>  core branch projects , club projects </strong> and  related stuffs.
-I Like  <strong>Deep learning , CV , Data analysis ,TinyML </strong> and <strong>Digital electronics ,Microcontrollers, control system design </strong> ... <br/>
-currently I am into  deep learning  and working  with <strong>tensorflow</strong>  <br/>
-I am looking for collaborations and Hands on projects  in Machine Learning and AI <br/>
+I work with  <strong>python, MATLAB</strong> and <strong>  R </strong> for most of my AI releted projects/learning,a nd using <strong>C ,C++ ,embedded C </strong> for <strong>  core branch projects , club projects </strong> and  related stuffs.
+I Like  <strong>Deep learning , CV , Data analysis ,TinyML,AI on Edge devices </strong> and also have a basic knowledge of core subjects like <strong>Digital electronics ,Microcontrollers, control system design , robotics, Automation </strong> ... <br/>
+currently I am learning deep learning  and working  with/learning <strong>tensorflow and pytorch</strong>  <br/>
+I am looking for collaborations and Hands on projects in Machine Learning , software devlopment and AI <br/>
 <strong>Ping me for projects, let's explore and build crazy stuff 👊</strong>
 <br/>
 <br>
 <hr size='20' color='grey'/> </bt>
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarabhian&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarabhian&layout=compact" />
+</a>
+</br><hr size='20' color='grey'/> </bt>
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Sarabhian&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
