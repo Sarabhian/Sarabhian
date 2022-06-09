@@ -22,10 +22,10 @@ I am looking for collaborations and Hands on projects in Machine Learning , soft
 <hr size='20' color='grey'/> </bt>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="top-right" src="https://github-readme-stats.vercel.app/api?username=Sarabhian&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="top-right" src="https://github-readme-stats.vercel.app/api?username=Sarabhian&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top-left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarabhian&layout=compact" />
+  <img align="top-left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarabhian&count_private=true&layout=compact" />
 </a>
 </br><hr size='20' color='grey'/> </bt>
 
