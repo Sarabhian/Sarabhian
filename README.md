@@ -11,10 +11,14 @@
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a></br>
 <br>
-I am Abhijeet Deshmukh, Undergraduate student at <strong>College of Engineering Pune </strong> pursuing Major in <strong>Instrumentation and Control and Engineering (ICE) </strong> (batch 2019-23) + pursuing minor in<strong> Computert Science </strong> (batch 2021-23) <br/> 
-I work with  <strong>python, MATLAB</strong> and <strong>  R </strong> for most of my AI releted projects/learning,and using <strong>C ,C++ ,embedded C </strong> for <strong>  core branch projects , club projects </strong> and  related stuffs.
-I Like  <strong>Deep learning , CV , Data analysis ,TinyML,AI on Edge devices </strong> and also have a basic knowledge of core subjects like <strong>Digital electronics ,Microcontrollers, control system design , robotics, Automation,IIOT </strong> ... <br/>
-currently I am learning deep learning  and working  with/learning <strong>tensorflow and pytorch</strong>  <br/>
+I am Abhijeet Deshmukh, Completed my undergraduate study at <strong>College of Engineering Pune </strong> and got a bachelor's of technology degree in <strong>Instrumentation and Control Engineering (ICE) </strong> (batch 2019-23) + minor's degree in<strong> Computer Science </strong> (batch 2021-23) <br/> 
+Currently I am a Data scientist working in one of the MNC , my current work focus more on Data analytics, business intelligence and small case <strong>X-ai ( explainable ai)</strong> ML modelling. <br/>
+My explosure to Ai field generally revolves around computer vision , time series data analysis, tabular structured data projects mostly unsupervised learning.<br/>
+I have some special skills being a  data scientist like finding insights from dirtiest data available, I like playing with data, churning it and making a beautiful artifact from raw data, it's really fun for me 😄 <br/>
+I know  some basic programming languages like <b><u>Python ,C ,C++, R, JavaScript</u></b>
+I have knowledge of few tools like <b>Rstudio, PowerBI, tableu, MATLAB,</b>
+<br/>
+I am learning, <strong>tensorflow and pytorch</strong>  <br/>
 I am looking for collaborations and Hands on projects in Machine Learning , software devlopment and AI <br/>
 <strong>Ping me for projects, let's explore and build crazy stuff 👊</strong>
 
